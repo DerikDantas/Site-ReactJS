@@ -5,6 +5,6 @@
 - Site Resposivo com o framework #Bootstrap;
 - Site com Login pelo Firease;
 
-# Autenticação:
-usuário: teste@hotmail.com
+### Autenticação:
+usuário: teste@hotmail.com <br>
 senha: teste1
