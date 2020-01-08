@@ -1,0 +1,25 @@
+.container-promo{
+    height: 320px; 
+    background-color: #333333;
+    color:#ffffff;
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+  }
+.text-promo{
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.text-promo h1{
+  font-size: 4.5rem;
+}
+@media(max-width: 760px){
+  .container-promo{
+    max-width: auto;
+  }
+  .text-promo h1{
+    font-size: 3.2rem;
+  }
+  .text-promo h3{
+    font-size: 2.0rem;
+  }
+}

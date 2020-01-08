@@ -1,0 +1,16 @@
+.go-top {
+    position: fixed;
+    cursor: pointer;
+    bottom: 20px;
+    right: 5px;
+    color: #ffffff;
+    background-color: lightblue;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    height: 50px;
+    border-radius: 25px 25px 25px 25px;
+    line-height: 46px;
+    -webkit-transition: 1s;
+    transition: 1s ease;
+  }

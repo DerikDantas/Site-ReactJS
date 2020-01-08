@@ -1,0 +1,93 @@
+html{
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.box {
+  width: 500px;
+  margin: 200px 0;
+}
+
+.shape1{
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  float: left;
+  margin-right: -50px;
+}
+.shape2 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  margin-top: -30px;
+  float: left;
+}
+.shape3 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  margin-top: -30px;
+  float: left;
+  margin-left: -31px;
+}
+.shape4 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  margin-top: -25px;
+  float: left;
+  margin-left: -32px;
+}
+.shape5 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  float: left;
+  margin-right: -48px;
+  margin-left: -32px;
+  margin-top: -30px;
+}
+.shape6 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  float: left;
+  margin-right: -20px;
+  margin-top: -35px;
+}
+.shape7 {
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  float: left;
+  margin-right: -20px;
+  margin-top: -57px;
+}
+.float {
+  position: absolute;
+  z-index: 2;
+}
+
+.form {
+  margin-left: 145px;
+}
