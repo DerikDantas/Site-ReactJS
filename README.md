@@ -2,7 +2,7 @@
 
 ## Aplicação Web usando React JS;
 
-- Site Resposivo com o framework #Bootstrap;
+- Site Resposivo com o framework <strong>Bootstrap</strong>;
 - Site com Login pelo Firease;
 
 ### Autenticação:
